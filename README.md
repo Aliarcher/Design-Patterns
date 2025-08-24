@@ -11,7 +11,7 @@ Creational design patterns provide various object creation mechanisms, which inc
 ## Structural
 Structural design patterns explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
 
-الگوهای طراحی ساختاری توضیح می‌دهند که چگونه اشیاء و کلاس‌ها را در ساختارهای بزرگتر گرد هم آوریم، در حالی که این ساختارها را انعطاف‌پذیر و کارآمد نگه داشته شود.
+الگوهای طراحی ساختاری توضیح می‌دهند که چگونه اشیاء و کلاس‌ها را در ساختارهای بزرگتر گرد هم آوریم، در حالی که این ساختارها انعطاف‌پذیر و کارآمد نگه داشته شود.
 
 <img width="1024" height="544" alt="image" src="https://github.com/user-attachments/assets/156d5726-1abc-48f6-a106-21f8c63212ce" />
 
