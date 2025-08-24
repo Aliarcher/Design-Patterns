@@ -17,7 +17,10 @@ Structural design patterns explain how to assemble objects and classes into larg
 
 ## Behavioral
 Behavioral design patterns are concerned with algorithms and the assignment of responsibilities between objects.
+
+الگوهای طراحی رفتاری مربوط به الگوریتم‌ها و تخصیص مسئولیت‌ها بین اشیاء هستند.
+
 <img width="1024" height="544" alt="image" src="https://github.com/user-attachments/assets/d2e14312-5eee-4ba2-9637-0804eebfc656" />
 
 
-الگوهای طراحی رفتاری مربوط به الگوریتم‌ها و تخصیص مسئولیت‌ها بین اشیاء هستند.
+
