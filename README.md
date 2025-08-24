@@ -4,3 +4,7 @@
 ## Creational
 <img width="1024" height="544" alt="image" src="https://github.com/user-attachments/assets/44d61865-df68-4419-9f15-ea96cfbf3416" />
 
+## Structural
+<img width="1024" height="544" alt="image" src="https://github.com/user-attachments/assets/156d5726-1abc-48f6-a106-21f8c63212ce" />
+
+
