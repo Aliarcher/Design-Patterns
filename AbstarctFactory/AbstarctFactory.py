@@ -28,7 +28,7 @@ class Car(ABC): #Abstact Factory
 #ConcreteFactory
 class Benz(Car): #Concrete Factory 1
     def call_suv(self):
-        return Suv()
+        return Gla()
     def call_coupe(self):
         return Cls()
     
@@ -87,4 +87,5 @@ def client_coupe(order): # Client 2
 client_coupe('benz')
 client_coupe('bmw')
 client_suv('benz')
+
 client_suv('bmw')  
